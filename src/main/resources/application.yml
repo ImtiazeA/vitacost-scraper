@@ -1,0 +1,7 @@
+logging:
+  level:
+    org.jsoup: trace
+    com.trackstreet.scraper.vitacostscraper: trace
+
+  file:
+    name: logs/app.log
